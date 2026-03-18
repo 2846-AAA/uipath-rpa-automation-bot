@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "generated_at": "2026-03-18T16:43:42.023811",
+        "source_file": "employees_raw.csv",
+        "total_records": 10,
+        "valid_count": 10,
+        "error_count": 0,
+        "script_version": "1.0.0"
+    },
+    "records": [
+        {
+            "emp_id": "E001",
+            "name": "Anuja Dhamdhere",
+            "department": "It",
+            "salary": 55000.0,
+            "join_date": "2024-01-15",
+            "email": "anuja@company.com",
+            "processed_at": "2026-03-18T16:43:41.992647"
+        },
+        {
+            "emp_id": "E002",
+            "name": "Rahul Sharma",
+            "department": "Hr",
+            "salary": 48000.0,
+            "join_date": "2023-11-20",
+            "email": "rahul@company.com",
+            "processed_at": "2026-03-18T16:43:42.003838"
+        },
+        {
+            "emp_id": "E003",
+            "name": "Priya Patel",
+            "department": "Finance",
+            "salary": 62000.0,
+            "join_date": "2024-03-01",
+            "email": "priya@company.com",
+            "processed_at": "2026-03-18T16:43:42.005705"
+        },
+        {
+            "emp_id": "E004",
+            "name": "Amit Desai",
+            "department": "It",
+            "salary": 70000.0,
+            "join_date": "2022-07-10",
+            "email": "amit@company.com",
+            "processed_at": "2026-03-18T16:43:42.007275"
+        },
+        {
+            "emp_id": "E005",
+            "name": "Sneha Kulkarni",
+            "department": "Marketing",
+            "salary": 45000.0,
+            "join_date": "2024-02-28",
+            "email": "sneha@company.com",
+            "processed_at": "2026-03-18T16:43:42.009167"
+        },
+        {
+            "emp_id": "E006",
+            "name": "Vikram Singh",
+            "department": "Finance",
+            "salary": 58000.0,
+            "join_date": "2023-05-15",
+            "email": "vikram@company.com",
+            "processed_at": "2026-03-18T16:43:42.012824"
+        },
+        {
+            "emp_id": "E007",
+            "name": "Meera Joshi",
+            "department": "Hr",
+            "salary": 52000.0,
+            "join_date": "2023-09-01",
+            "email": "meera@company.com",
+            "processed_at": "2026-03-18T16:43:42.015204"
+        },
+        {
+            "emp_id": "E008",
+            "name": "Arjun Nair",
+            "department": "It",
+            "salary": 65000.0,
+            "join_date": "2022-12-01",
+            "email": "arjun@company.com",
+            "processed_at": "2026-03-18T16:43:42.016748"
+        },
+        {
+            "emp_id": "E009",
+            "name": "Divya Rao",
+            "department": "Marketing",
+            "salary": 47000.0,
+            "join_date": "2024-01-30",
+            "email": "divya@company.com",
+            "processed_at": "2026-03-18T16:43:42.018628"
+        },
+        {
+            "emp_id": "E010",
+            "name": "Karan Mehta",
+            "department": "Finance",
+            "salary": 60000.0,
+            "join_date": "2023-08-20",
+            "email": "karan@company.com",
+            "processed_at": "2026-03-18T16:43:42.021185"
+        }
+    ],
+    "error_records": []
+}

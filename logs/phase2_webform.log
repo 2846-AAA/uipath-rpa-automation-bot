@@ -1,0 +1,259 @@
+2026-03-18 10:52:11,443 [INFO] ============================================================
+2026-03-18 10:52:11,443 [INFO] Phase 2: Web Form-Filling Bot STARTED
+2026-03-18 10:52:11,443 [INFO] Target URL: https://httpbin.org/post
+2026-03-18 10:52:11,443 [INFO] ============================================================
+2026-03-18 10:52:11,444 [INFO] Loaded 5 valid records from Phase 1
+2026-03-18 10:52:11,444 [INFO] 
+[1/5] Processing: Priya Patel (E003)
+2026-03-18 10:52:11,444 [INFO]   → Opening browser for: Priya Patel
+2026-03-18 10:52:11,545 [INFO]      TypeInto [Employee ID] = 'E003'
+2026-03-18 10:52:11,596 [INFO]      TypeInto [Full Name] = 'Priya Patel'
+2026-03-18 10:52:11,647 [INFO]      TypeInto [Department] = 'Finance'
+2026-03-18 10:52:11,698 [INFO]      TypeInto [Salary] = '62000.0'
+2026-03-18 10:52:11,749 [INFO]      TypeInto [Join Date] = '2024-03-01'
+2026-03-18 10:52:11,800 [INFO]      TypeInto [Email] = 'priya@company.com'
+2026-03-18 10:52:11,851 [INFO]   ✓ Submitted — confirmation: CONF-E003-105211
+2026-03-18 10:52:11,851 [INFO] 
+[2/5] Processing: Sneha Kulkarni (E005)
+2026-03-18 10:52:11,851 [INFO]   → Opening browser for: Sneha Kulkarni
+2026-03-18 10:52:11,951 [INFO]      TypeInto [Employee ID] = 'E005'
+2026-03-18 10:52:12,002 [INFO]      TypeInto [Full Name] = 'Sneha Kulkarni'
+2026-03-18 10:52:12,053 [INFO]      TypeInto [Department] = 'Marketing'
+2026-03-18 10:52:12,104 [INFO]      TypeInto [Salary] = '45000.0'
+2026-03-18 10:52:12,155 [INFO]      TypeInto [Join Date] = '2024-02-28'
+2026-03-18 10:52:12,206 [INFO]      TypeInto [Email] = 'sneha@company.com'
+2026-03-18 10:52:12,257 [INFO]   ✓ Submitted — confirmation: CONF-E005-105212
+2026-03-18 10:52:12,257 [INFO] 
+[3/5] Processing: Vikram Singh (E006)
+2026-03-18 10:52:12,257 [INFO]   → Opening browser for: Vikram Singh
+2026-03-18 10:52:12,358 [INFO]      TypeInto [Employee ID] = 'E006'
+2026-03-18 10:52:12,409 [INFO]      TypeInto [Full Name] = 'Vikram Singh'
+2026-03-18 10:52:12,461 [INFO]      TypeInto [Department] = 'Finance'
+2026-03-18 10:52:12,511 [INFO]      TypeInto [Salary] = '58000.0'
+2026-03-18 10:52:12,561 [INFO]      TypeInto [Join Date] = '2023-05-15'
+2026-03-18 10:52:12,612 [INFO]      TypeInto [Email] = 'vikram@company.com'
+2026-03-18 10:52:12,663 [INFO]   ✓ Submitted — confirmation: CONF-E006-105212
+2026-03-18 10:52:12,664 [INFO] 
+[4/5] Processing: Divya Rao (E009)
+2026-03-18 10:52:12,664 [INFO]   → Opening browser for: Divya Rao
+2026-03-18 10:52:12,765 [INFO]      TypeInto [Employee ID] = 'E009'
+2026-03-18 10:52:12,816 [INFO]      TypeInto [Full Name] = 'Divya Rao'
+2026-03-18 10:52:12,867 [INFO]      TypeInto [Department] = 'Marketing'
+2026-03-18 10:52:12,918 [INFO]      TypeInto [Salary] = '47000.0'
+2026-03-18 10:52:12,968 [INFO]      TypeInto [Join Date] = '2024-01-30'
+2026-03-18 10:52:13,019 [INFO]      TypeInto [Email] = 'divya@company.com'
+2026-03-18 10:52:13,070 [INFO]   ✓ Submitted — confirmation: CONF-E009-105213
+2026-03-18 10:52:13,070 [INFO] 
+[5/5] Processing: Karan Mehta (E010)
+2026-03-18 10:52:13,070 [INFO]   → Opening browser for: Karan Mehta
+2026-03-18 10:52:13,171 [INFO]      TypeInto [Employee ID] = 'E010'
+2026-03-18 10:52:13,222 [INFO]      TypeInto [Full Name] = 'Karan Mehta'
+2026-03-18 10:52:13,273 [INFO]      TypeInto [Department] = 'Finance'
+2026-03-18 10:52:13,324 [INFO]      TypeInto [Salary] = '60000.0'
+2026-03-18 10:52:13,375 [INFO]      TypeInto [Join Date] = '2023-08-20'
+2026-03-18 10:52:13,426 [INFO]      TypeInto [Email] = 'karan@company.com'
+2026-03-18 10:52:13,477 [INFO]   ✓ Submitted — confirmation: CONF-E010-105213
+2026-03-18 10:52:13,478 [INFO] 
+============================================================
+2026-03-18 10:52:13,478 [INFO] Phase 2 COMPLETED: 5 success | 0 failed
+2026-03-18 10:52:13,479 [INFO] Results saved → /home/claude/rpa_project/python_scripts/../sample_data/webform_results.json
+2026-03-18 10:52:13,479 [INFO] ============================================================
+2026-03-18 10:52:22,932 [INFO] ============================================================
+2026-03-18 10:52:22,932 [INFO] Phase 2: Web Form-Filling Bot STARTED
+2026-03-18 10:52:22,933 [INFO] Target URL: https://httpbin.org/post
+2026-03-18 10:52:22,933 [INFO] ============================================================
+2026-03-18 10:52:22,933 [INFO] Loaded 10 valid records from Phase 1
+2026-03-18 10:52:22,933 [INFO] 
+[1/10] Processing: Anuja Dhamdhere (E001)
+2026-03-18 10:52:22,933 [INFO]   → Opening browser for: Anuja Dhamdhere
+2026-03-18 10:52:23,034 [INFO]      TypeInto [Employee ID] = 'E001'
+2026-03-18 10:52:23,085 [INFO]      TypeInto [Full Name] = 'Anuja Dhamdhere'
+2026-03-18 10:52:23,136 [INFO]      TypeInto [Department] = 'It'
+2026-03-18 10:52:23,187 [INFO]      TypeInto [Salary] = '55000.0'
+2026-03-18 10:52:23,238 [INFO]      TypeInto [Join Date] = '2024-01-15'
+2026-03-18 10:52:23,289 [INFO]      TypeInto [Email] = 'anuja@company.com'
+2026-03-18 10:52:23,340 [INFO]   ✓ Submitted — confirmation: CONF-E001-105223
+2026-03-18 10:52:23,340 [INFO] 
+[2/10] Processing: Rahul Sharma (E002)
+2026-03-18 10:52:23,340 [INFO]   → Opening browser for: Rahul Sharma
+2026-03-18 10:52:23,441 [INFO]      TypeInto [Employee ID] = 'E002'
+2026-03-18 10:52:23,492 [INFO]      TypeInto [Full Name] = 'Rahul Sharma'
+2026-03-18 10:52:23,543 [INFO]      TypeInto [Department] = 'Hr'
+2026-03-18 10:52:23,594 [INFO]      TypeInto [Salary] = '48000.0'
+2026-03-18 10:52:23,645 [INFO]      TypeInto [Join Date] = '2023-11-20'
+2026-03-18 10:52:23,696 [INFO]      TypeInto [Email] = 'rahul@company.com'
+2026-03-18 10:52:23,747 [INFO]   ✓ Submitted — confirmation: CONF-E002-105223
+2026-03-18 10:52:23,747 [INFO] 
+[3/10] Processing: Priya Patel (E003)
+2026-03-18 10:52:23,747 [INFO]   → Opening browser for: Priya Patel
+2026-03-18 10:52:23,848 [INFO]      TypeInto [Employee ID] = 'E003'
+2026-03-18 10:52:23,899 [INFO]      TypeInto [Full Name] = 'Priya Patel'
+2026-03-18 10:52:23,950 [INFO]      TypeInto [Department] = 'Finance'
+2026-03-18 10:52:24,001 [INFO]      TypeInto [Salary] = '62000.0'
+2026-03-18 10:52:24,052 [INFO]      TypeInto [Join Date] = '2024-03-01'
+2026-03-18 10:52:24,102 [INFO]      TypeInto [Email] = 'priya@company.com'
+2026-03-18 10:52:24,153 [INFO]   ✓ Submitted — confirmation: CONF-E003-105224
+2026-03-18 10:52:24,154 [INFO] 
+[4/10] Processing: Amit Desai (E004)
+2026-03-18 10:52:24,154 [INFO]   → Opening browser for: Amit Desai
+2026-03-18 10:52:24,254 [INFO]      TypeInto [Employee ID] = 'E004'
+2026-03-18 10:52:24,305 [INFO]      TypeInto [Full Name] = 'Amit Desai'
+2026-03-18 10:52:24,356 [INFO]      TypeInto [Department] = 'It'
+2026-03-18 10:52:24,407 [INFO]      TypeInto [Salary] = '70000.0'
+2026-03-18 10:52:24,458 [INFO]      TypeInto [Join Date] = '2022-07-10'
+2026-03-18 10:52:24,509 [INFO]      TypeInto [Email] = 'amit@company.com'
+2026-03-18 10:52:24,561 [INFO]   ✓ Submitted — confirmation: CONF-E004-105224
+2026-03-18 10:52:24,561 [INFO] 
+[5/10] Processing: Sneha Kulkarni (E005)
+2026-03-18 10:52:24,561 [INFO]   → Opening browser for: Sneha Kulkarni
+2026-03-18 10:52:24,662 [INFO]      TypeInto [Employee ID] = 'E005'
+2026-03-18 10:52:24,713 [INFO]      TypeInto [Full Name] = 'Sneha Kulkarni'
+2026-03-18 10:52:24,764 [INFO]      TypeInto [Department] = 'Marketing'
+2026-03-18 10:52:24,815 [INFO]      TypeInto [Salary] = '45000.0'
+2026-03-18 10:52:24,866 [INFO]      TypeInto [Join Date] = '2024-02-28'
+2026-03-18 10:52:24,917 [INFO]      TypeInto [Email] = 'sneha@company.com'
+2026-03-18 10:52:24,968 [INFO]   ✓ Submitted — confirmation: CONF-E005-105224
+2026-03-18 10:52:24,969 [INFO] 
+[6/10] Processing: Vikram Singh (E006)
+2026-03-18 10:52:24,969 [INFO]   → Opening browser for: Vikram Singh
+2026-03-18 10:52:25,069 [INFO]      TypeInto [Employee ID] = 'E006'
+2026-03-18 10:52:25,120 [INFO]      TypeInto [Full Name] = 'Vikram Singh'
+2026-03-18 10:52:25,171 [INFO]      TypeInto [Department] = 'Finance'
+2026-03-18 10:52:25,222 [INFO]      TypeInto [Salary] = '58000.0'
+2026-03-18 10:52:25,273 [INFO]      TypeInto [Join Date] = '2023-05-15'
+2026-03-18 10:52:25,324 [INFO]      TypeInto [Email] = 'vikram@company.com'
+2026-03-18 10:52:25,375 [INFO]   ✓ Submitted — confirmation: CONF-E006-105225
+2026-03-18 10:52:25,376 [INFO] 
+[7/10] Processing: Meera Joshi (E007)
+2026-03-18 10:52:25,376 [INFO]   → Opening browser for: Meera Joshi
+2026-03-18 10:52:25,476 [INFO]      TypeInto [Employee ID] = 'E007'
+2026-03-18 10:52:25,527 [INFO]      TypeInto [Full Name] = 'Meera Joshi'
+2026-03-18 10:52:25,578 [INFO]      TypeInto [Department] = 'Hr'
+2026-03-18 10:52:25,629 [INFO]      TypeInto [Salary] = '52000.0'
+2026-03-18 10:52:25,681 [INFO]      TypeInto [Join Date] = '2023-09-01'
+2026-03-18 10:52:25,731 [INFO]      TypeInto [Email] = 'meera@company.com'
+2026-03-18 10:52:25,783 [INFO]   ✓ Submitted — confirmation: CONF-E007-105225
+2026-03-18 10:52:25,783 [INFO] 
+[8/10] Processing: Arjun Nair (E008)
+2026-03-18 10:52:25,783 [INFO]   → Opening browser for: Arjun Nair
+2026-03-18 10:52:25,884 [INFO]      TypeInto [Employee ID] = 'E008'
+2026-03-18 10:52:25,935 [INFO]      TypeInto [Full Name] = 'Arjun Nair'
+2026-03-18 10:52:25,986 [INFO]      TypeInto [Department] = 'It'
+2026-03-18 10:52:26,038 [INFO]      TypeInto [Salary] = '65000.0'
+2026-03-18 10:52:26,089 [INFO]      TypeInto [Join Date] = '2022-12-01'
+2026-03-18 10:52:26,140 [INFO]      TypeInto [Email] = 'arjun@company.com'
+2026-03-18 10:52:26,191 [INFO]   ✓ Submitted — confirmation: CONF-E008-105226
+2026-03-18 10:52:26,192 [INFO] 
+[9/10] Processing: Divya Rao (E009)
+2026-03-18 10:52:26,192 [INFO]   → Opening browser for: Divya Rao
+2026-03-18 10:52:26,293 [INFO]      TypeInto [Employee ID] = 'E009'
+2026-03-18 10:52:26,344 [INFO]      TypeInto [Full Name] = 'Divya Rao'
+2026-03-18 10:52:26,395 [INFO]      TypeInto [Department] = 'Marketing'
+2026-03-18 10:52:26,446 [INFO]      TypeInto [Salary] = '47000.0'
+2026-03-18 10:52:26,497 [INFO]      TypeInto [Join Date] = '2024-01-30'
+2026-03-18 10:52:26,548 [INFO]      TypeInto [Email] = 'divya@company.com'
+2026-03-18 10:52:26,599 [INFO]   ✓ Submitted — confirmation: CONF-E009-105226
+2026-03-18 10:52:26,600 [INFO] 
+[10/10] Processing: Karan Mehta (E010)
+2026-03-18 10:52:26,600 [INFO]   → Opening browser for: Karan Mehta
+2026-03-18 10:52:26,700 [INFO]      TypeInto [Employee ID] = 'E010'
+2026-03-18 10:52:26,751 [INFO]      TypeInto [Full Name] = 'Karan Mehta'
+2026-03-18 10:52:26,801 [INFO]      TypeInto [Department] = 'Finance'
+2026-03-18 10:52:26,852 [INFO]      TypeInto [Salary] = '60000.0'
+2026-03-18 10:52:26,904 [INFO]      TypeInto [Join Date] = '2023-08-20'
+2026-03-18 10:52:26,955 [INFO]      TypeInto [Email] = 'karan@company.com'
+2026-03-18 10:52:27,006 [INFO]   ✓ Submitted — confirmation: CONF-E010-105227
+2026-03-18 10:52:27,007 [INFO] 
+============================================================
+2026-03-18 10:52:27,007 [INFO] Phase 2 COMPLETED: 10 success | 0 failed
+2026-03-18 10:52:27,007 [INFO] Results saved → /home/claude/rpa_project/python_scripts/../sample_data/webform_results.json
+2026-03-18 10:52:27,007 [INFO] ============================================================
+2026-03-18 16:43:42,906 [INFO] ============================================================
+2026-03-18 16:43:42,908 [INFO] Phase 2: Web Form-Filling Bot STARTED
+2026-03-18 16:43:42,909 [INFO] Target URL: https://httpbin.org/post
+2026-03-18 16:43:42,912 [INFO] ============================================================
+2026-03-18 16:43:42,916 [INFO] Loaded 10 valid records from Phase 1
+2026-03-18 16:43:42,917 [INFO] 
+[1/10] Processing: Anuja Dhamdhere (E001)
+2026-03-18 16:43:43,070 [INFO]      TypeInto [Employee ID] = 'E001'
+2026-03-18 16:43:43,126 [INFO]      TypeInto [Full Name] = 'Anuja Dhamdhere'
+2026-03-18 16:43:43,183 [INFO]      TypeInto [Department] = 'It'
+2026-03-18 16:43:43,239 [INFO]      TypeInto [Salary] = '55000.0'
+2026-03-18 16:43:43,299 [INFO]      TypeInto [Join Date] = '2024-01-15'
+2026-03-18 16:43:43,351 [INFO]      TypeInto [Email] = 'anuja@company.com'
+2026-03-18 16:43:43,433 [INFO] 
+[2/10] Processing: Rahul Sharma (E002)
+2026-03-18 16:43:43,569 [INFO]      TypeInto [Employee ID] = 'E002'
+2026-03-18 16:43:43,620 [INFO]      TypeInto [Full Name] = 'Rahul Sharma'
+2026-03-18 16:43:43,672 [INFO]      TypeInto [Department] = 'Hr'
+2026-03-18 16:43:43,724 [INFO]      TypeInto [Salary] = '48000.0'
+2026-03-18 16:43:43,775 [INFO]      TypeInto [Join Date] = '2023-11-20'
+2026-03-18 16:43:43,828 [INFO]      TypeInto [Email] = 'rahul@company.com'
+2026-03-18 16:43:43,912 [INFO] 
+[3/10] Processing: Priya Patel (E003)
+2026-03-18 16:43:44,039 [INFO]      TypeInto [Employee ID] = 'E003'
+2026-03-18 16:43:44,091 [INFO]      TypeInto [Full Name] = 'Priya Patel'
+2026-03-18 16:43:44,143 [INFO]      TypeInto [Department] = 'Finance'
+2026-03-18 16:43:44,195 [INFO]      TypeInto [Salary] = '62000.0'
+2026-03-18 16:43:44,252 [INFO]      TypeInto [Join Date] = '2024-03-01'
+2026-03-18 16:43:44,304 [INFO]      TypeInto [Email] = 'priya@company.com'
+2026-03-18 16:43:44,431 [INFO] 
+[4/10] Processing: Amit Desai (E004)
+2026-03-18 16:43:44,593 [INFO]      TypeInto [Employee ID] = 'E004'
+2026-03-18 16:43:44,650 [INFO]      TypeInto [Full Name] = 'Amit Desai'
+2026-03-18 16:43:44,703 [INFO]      TypeInto [Department] = 'It'
+2026-03-18 16:43:44,762 [INFO]      TypeInto [Salary] = '70000.0'
+2026-03-18 16:43:44,820 [INFO]      TypeInto [Join Date] = '2022-07-10'
+2026-03-18 16:43:44,872 [INFO]      TypeInto [Email] = 'amit@company.com'
+2026-03-18 16:43:44,947 [INFO] 
+[5/10] Processing: Sneha Kulkarni (E005)
+2026-03-18 16:43:45,088 [INFO]      TypeInto [Employee ID] = 'E005'
+2026-03-18 16:43:45,140 [INFO]      TypeInto [Full Name] = 'Sneha Kulkarni'
+2026-03-18 16:43:45,197 [INFO]      TypeInto [Department] = 'Marketing'
+2026-03-18 16:43:45,250 [INFO]      TypeInto [Salary] = '45000.0'
+2026-03-18 16:43:45,303 [INFO]      TypeInto [Join Date] = '2024-02-28'
+2026-03-18 16:43:45,358 [INFO]      TypeInto [Email] = 'sneha@company.com'
+2026-03-18 16:43:45,483 [INFO] 
+[6/10] Processing: Vikram Singh (E006)
+2026-03-18 16:43:45,625 [INFO]      TypeInto [Employee ID] = 'E006'
+2026-03-18 16:43:45,680 [INFO]      TypeInto [Full Name] = 'Vikram Singh'
+2026-03-18 16:43:45,733 [INFO]      TypeInto [Department] = 'Finance'
+2026-03-18 16:43:45,787 [INFO]      TypeInto [Salary] = '58000.0'
+2026-03-18 16:43:45,840 [INFO]      TypeInto [Join Date] = '2023-05-15'
+2026-03-18 16:43:45,899 [INFO]      TypeInto [Email] = 'vikram@company.com'
+2026-03-18 16:43:45,998 [INFO] 
+[7/10] Processing: Meera Joshi (E007)
+2026-03-18 16:43:46,142 [INFO]      TypeInto [Employee ID] = 'E007'
+2026-03-18 16:43:46,197 [INFO]      TypeInto [Full Name] = 'Meera Joshi'
+2026-03-18 16:43:46,248 [INFO]      TypeInto [Department] = 'Hr'
+2026-03-18 16:43:46,300 [INFO]      TypeInto [Salary] = '52000.0'
+2026-03-18 16:43:46,354 [INFO]      TypeInto [Join Date] = '2023-09-01'
+2026-03-18 16:43:46,466 [INFO]      TypeInto [Email] = 'meera@company.com'
+2026-03-18 16:43:46,544 [INFO] 
+[8/10] Processing: Arjun Nair (E008)
+2026-03-18 16:43:46,662 [INFO]      TypeInto [Employee ID] = 'E008'
+2026-03-18 16:43:46,714 [INFO]      TypeInto [Full Name] = 'Arjun Nair'
+2026-03-18 16:43:46,771 [INFO]      TypeInto [Department] = 'It'
+2026-03-18 16:43:46,824 [INFO]      TypeInto [Salary] = '65000.0'
+2026-03-18 16:43:46,884 [INFO]      TypeInto [Join Date] = '2022-12-01'
+2026-03-18 16:43:46,940 [INFO]      TypeInto [Email] = 'arjun@company.com'
+2026-03-18 16:43:47,560 [INFO] 
+[9/10] Processing: Divya Rao (E009)
+2026-03-18 16:43:47,790 [INFO]      TypeInto [Employee ID] = 'E009'
+2026-03-18 16:43:47,842 [INFO]      TypeInto [Full Name] = 'Divya Rao'
+2026-03-18 16:43:47,895 [INFO]      TypeInto [Department] = 'Marketing'
+2026-03-18 16:43:47,948 [INFO]      TypeInto [Salary] = '47000.0'
+2026-03-18 16:43:48,032 [INFO]      TypeInto [Join Date] = '2024-01-30'
+2026-03-18 16:43:48,092 [INFO]      TypeInto [Email] = 'divya@company.com'
+2026-03-18 16:43:48,276 [INFO] 
+[10/10] Processing: Karan Mehta (E010)
+2026-03-18 16:43:48,480 [INFO]      TypeInto [Employee ID] = 'E010'
+2026-03-18 16:43:48,568 [INFO]      TypeInto [Full Name] = 'Karan Mehta'
+2026-03-18 16:43:48,651 [INFO]      TypeInto [Department] = 'Finance'
+2026-03-18 16:43:48,703 [INFO]      TypeInto [Salary] = '60000.0'
+2026-03-18 16:43:48,755 [INFO]      TypeInto [Join Date] = '2023-08-20'
+2026-03-18 16:43:48,809 [INFO]      TypeInto [Email] = 'karan@company.com'
+2026-03-18 16:43:49,019 [INFO] 
+============================================================
+2026-03-18 16:43:49,040 [INFO] Phase 2 COMPLETED: 10 success | 0 failed
+2026-03-18 16:43:49,190 [INFO] ============================================================

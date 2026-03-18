@@ -1,0 +1,53 @@
+2026-03-18 10:52:11,329 [INFO] ============================================================
+2026-03-18 10:52:11,329 [INFO] Phase 1: JSON Pre-Processor STARTED
+2026-03-18 10:52:11,329 [INFO] ============================================================
+2026-03-18 10:52:11,329 [INFO] Reading CSV: /home/claude/rpa_project/python_scripts/../sample_data/employees_raw.csv
+2026-03-18 10:52:11,334 [WARNING] Row 2 [E001] — validation errors: ["Invalid department: 'It'"]
+2026-03-18 10:52:11,335 [WARNING] Row 3 [E002] — validation errors: ["Invalid department: 'Hr'"]
+2026-03-18 10:52:11,335 [INFO] Row 4 [E003] — OK: Priya Patel
+2026-03-18 10:52:11,335 [WARNING] Row 5 [E004] — validation errors: ["Invalid department: 'It'"]
+2026-03-18 10:52:11,335 [INFO] Row 6 [E005] — OK: Sneha Kulkarni
+2026-03-18 10:52:11,335 [INFO] Row 7 [E006] — OK: Vikram Singh
+2026-03-18 10:52:11,335 [WARNING] Row 8 [E007] — validation errors: ["Invalid department: 'Hr'"]
+2026-03-18 10:52:11,335 [WARNING] Row 9 [E008] — validation errors: ["Invalid department: 'It'"]
+2026-03-18 10:52:11,335 [INFO] Row 10 [E009] — OK: Divya Rao
+2026-03-18 10:52:11,335 [INFO] Row 11 [E010] — OK: Karan Mehta
+2026-03-18 10:52:11,336 [INFO] JSON saved → /home/claude/rpa_project/python_scripts/../sample_data/employees_clean.json
+2026-03-18 10:52:11,336 [INFO] Summary: 5 valid | 5 errors
+2026-03-18 10:52:11,336 [INFO] Phase 1: COMPLETED SUCCESSFULLY
+2026-03-18 10:52:11,336 [INFO] ============================================================
+2026-03-18 10:52:22,807 [INFO] ============================================================
+2026-03-18 10:52:22,807 [INFO] Phase 1: JSON Pre-Processor STARTED
+2026-03-18 10:52:22,807 [INFO] ============================================================
+2026-03-18 10:52:22,807 [INFO] Reading CSV: /home/claude/rpa_project/python_scripts/../sample_data/employees_raw.csv
+2026-03-18 10:52:22,813 [INFO] Row 2 [E001] — OK: Anuja Dhamdhere
+2026-03-18 10:52:22,813 [INFO] Row 3 [E002] — OK: Rahul Sharma
+2026-03-18 10:52:22,814 [INFO] Row 4 [E003] — OK: Priya Patel
+2026-03-18 10:52:22,814 [INFO] Row 5 [E004] — OK: Amit Desai
+2026-03-18 10:52:22,814 [INFO] Row 6 [E005] — OK: Sneha Kulkarni
+2026-03-18 10:52:22,814 [INFO] Row 7 [E006] — OK: Vikram Singh
+2026-03-18 10:52:22,814 [INFO] Row 8 [E007] — OK: Meera Joshi
+2026-03-18 10:52:22,814 [INFO] Row 9 [E008] — OK: Arjun Nair
+2026-03-18 10:52:22,815 [INFO] Row 10 [E009] — OK: Divya Rao
+2026-03-18 10:52:22,815 [INFO] Row 11 [E010] — OK: Karan Mehta
+2026-03-18 10:52:22,816 [INFO] JSON saved → /home/claude/rpa_project/python_scripts/../sample_data/employees_clean.json
+2026-03-18 10:52:22,816 [INFO] Summary: 10 valid | 0 errors
+2026-03-18 10:52:22,816 [INFO] Phase 1: COMPLETED SUCCESSFULLY
+2026-03-18 10:52:22,816 [INFO] ============================================================
+2026-03-18 16:43:41,910 [INFO] ============================================================
+2026-03-18 16:43:41,914 [INFO] Phase 1: JSON Pre-Processor STARTED
+2026-03-18 16:43:41,916 [INFO] ============================================================
+2026-03-18 16:43:41,938 [INFO] Reading CSV: C:\Users\hp\Desktop\rpa_project\rpa_project\python_scripts\..\sample_data\employees_raw.csv
+2026-03-18 16:43:41,992 [INFO] Row 2 [E001] � OK: Anuja Dhamdhere
+2026-03-18 16:43:42,003 [INFO] Row 3 [E002] � OK: Rahul Sharma
+2026-03-18 16:43:42,005 [INFO] Row 4 [E003] � OK: Priya Patel
+2026-03-18 16:43:42,007 [INFO] Row 5 [E004] � OK: Amit Desai
+2026-03-18 16:43:42,009 [INFO] Row 6 [E005] � OK: Sneha Kulkarni
+2026-03-18 16:43:42,012 [INFO] Row 7 [E006] � OK: Vikram Singh
+2026-03-18 16:43:42,015 [INFO] Row 8 [E007] � OK: Meera Joshi
+2026-03-18 16:43:42,016 [INFO] Row 9 [E008] � OK: Arjun Nair
+2026-03-18 16:43:42,018 [INFO] Row 10 [E009] � OK: Divya Rao
+2026-03-18 16:43:42,021 [INFO] Row 11 [E010] � OK: Karan Mehta
+2026-03-18 16:43:42,360 [INFO] Summary: 10 valid | 0 errors
+2026-03-18 16:43:42,376 [INFO] Phase 1: COMPLETED SUCCESSFULLY
+2026-03-18 16:43:42,385 [INFO] ============================================================

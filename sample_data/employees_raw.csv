@@ -1,0 +1,11 @@
+emp_id,  name ,department,salary ,join_date,email
+E001, Anuja Dhamdhere ,IT,55000,2024-01-15,anuja@company.com
+E002,  Rahul Sharma,HR, 48000 ,2023-11-20,rahul@company.com
+E003,Priya Patel ,Finance,62000,2024-03-01,priya@company.com
+E004, Amit Desai,IT, 70000,2022-07-10,amit@company.com
+E005,Sneha Kulkarni ,Marketing,45000 ,2024-02-28,sneha@company.com
+E006, Vikram Singh,Finance,58000,2023-05-15,vikram@company.com
+E007,Meera Joshi ,HR,52000 ,2023-09-01,meera@company.com
+E008, Arjun Nair,IT,65000,2022-12-01,arjun@company.com
+E009,Divya Rao ,Marketing, 47000,2024-01-30,divya@company.com
+E010, Karan Mehta,Finance,60000,2023-08-20,karan@company.com
