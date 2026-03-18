@@ -97,14 +97,3 @@ rpa_project/
 
 ---
 
-## Interview Talking Points
-
-1. **"Walk me through your RPA project"** → Start with the 3-phase pipeline, mention JSON integration between Python and UiPath
-2. **"How did you handle errors?"** → Retry logic in Phase 2, try/catch in all phases, dedicated log files
-3. **"What UiPath activities did you use?"** → TypeInto, Click, Open Browser, GetText, Retry Scope, Log Message
-4. **"How does Python integrate with UiPath?"** → Python pre-processes raw data → outputs clean JSON → UiPath reads JSON via Deserialize activity
-5. **"What was the business impact?"** → Automated 3+ workflows, handles 10,000+ records, retry logic reduces manual intervention
-
----
-
-*Built as a portfolio project — all code is original and functional.*
